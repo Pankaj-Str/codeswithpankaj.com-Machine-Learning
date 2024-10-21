@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction to Machine Learning (ML)](README.md)
+  * [Why Use Machine Learning?](introduction-to-machine-learning-ml/why-use-machine-learning.md)
 * [Linear Regression](linear-regression/README.md)
   * [Guide with the Boston Housing Dataset](linear-regression/guide-with-the-boston-housing-dataset.md)
   * [Case Study Using the California Housing Dataset](linear-regression/case-study-using-the-california-housing-dataset.md)

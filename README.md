@@ -2,9 +2,26 @@
 
 ## Introduction to Machine Learning (ML)
 
-### What is Machine Learning?
+### What is Machine Learning ?
 
-Machine Learning (ML) is a type of artificial intelligence (AI) that allows computers to learn from data and make decisions or predictions without being explicitly programmed. Instead of writing specific instructions for every task, we provide data to the machine and let it learn patterns and insights from that data.
+Machine learning is a way to make computers learn from data. It helps them get better at tasks without being programmed for every step.
+
+Here's a simpler explanation :
+
+Machine learning allows computers to improve their performance by learning from examples instead of being told exactly what to do.
+
+**Example :**\
+Think about your email's spam filter. It can learn to recognize spam by looking at past emails. Some emails are labeled as spam (junk), and some are labeled as regular emails (non-spam or "ham"). Using this information, the program learns to flag future spam emails correctly.
+
+The emails used to teach the program are called the **training set**, and each email example is called a **training instance**. The system that learns and makes decisions is called a **model**. Examples of models include **neural networks** and **random forests**.
+
+In the case of spam filtering:
+
+* **Task (T) :** Flagging spam emails.
+* **Experience (E) :** Learning from past email data.
+* **Performance Measure (P) :** Accuracy, or how many emails are flagged correctly.
+
+If you give a computer a large amount of data (like all Wikipedia articles), it doesn’t automatically learn. It needs to be trained, which is what machine learning does.&#x20;
 
 ### Why is Machine Learning Important?
 
