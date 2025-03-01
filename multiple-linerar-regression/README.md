@@ -30,7 +30,7 @@ $$
 [ y = b_0 + b_1x_1 + b_2x_2 + ... + b_nx_n ]
 $$
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Applications**:
 

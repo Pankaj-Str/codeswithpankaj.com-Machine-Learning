@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Introduction to Machine Learning (ML)](README.md)
+* [Visualizing Data](README.md)
+* [Characterizing Data](characterizing-data.md)
+* [Introduction to Machine Learning (ML)](<README (1).md>)
   * [Why Use Machine Learning?](introduction-to-machine-learning-ml/why-use-machine-learning.md)
 * [Linear Regression](linear-regression/README.md)
   * [Guide with the Boston Housing Dataset](linear-regression/guide-with-the-boston-housing-dataset.md)

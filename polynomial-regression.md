@@ -28,7 +28,7 @@ $$
 [ y = b_0 + b_1x + b_2x^2 + ... + b_nx^n ]
 $$
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Applications**:
 
