@@ -1,5 +1,4 @@
 # **Predicting with Data Using Random vs. Stratified Sampling**  
-*(Perfect for Students!)*  
 
 ---
 
