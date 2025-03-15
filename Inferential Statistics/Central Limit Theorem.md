@@ -1,4 +1,4 @@
-# **Step-by-Step Tutorial: Understanding the Central Limit Theorem**  
+# *Central Limit Theorem**  
 **By Pankaj Chouhan, codeswithpankaj.com**  
 
 ---
